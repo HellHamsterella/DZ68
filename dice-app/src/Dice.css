@@ -1,0 +1,15 @@
+.dice-container {
+    margin-top: 20px;
+  }
+  
+  .dice-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .roll-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
